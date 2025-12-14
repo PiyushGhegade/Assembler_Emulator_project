@@ -1,0 +1,13 @@
+ INFORMATION: LOG CODE GENERATED logFile.log
+ WARNING: Unused label found: data1 at line 155
+ WARNING: Unused label found: data2 at line 155
+ WARNING: Unused label found: data3 at line 155
+ WARNING: Unused label found: data4 at line 155
+ WARNING: Unused label found: data5 at line 155
+ WARNING: Unused label found: data6 at line 155
+ WARNING: Unused label found: data7 at line 155
+ WARNING: Unused label found: data8 at line 155
+ WARNING: Unused label found: data9 at line 155
+ WARNING: Unused label found: data10 at line 155
+ INFORMATION: MACHINE CODE GENERATED output.obj
+ INFORMATION: LISTING FILE GENERATED listfiles.txt

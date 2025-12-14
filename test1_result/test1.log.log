@@ -1,0 +1,6 @@
+ INFORMATION: LOG CODE GENERATED logFile.log
+ WARNING: Unused label found: label at line 11
+ WARNING: Halt not found
+ WARNING:  Infinite loop detected at address 6 (branching to itself).
+ INFORMATION: MACHINE CODE GENERATED output.obj
+ INFORMATION: LISTING FILE GENERATED listfiles.txt

@@ -1,0 +1,16 @@
+ INFORMATION: LOG CODE GENERATED logFile.log
+ ERROR: Error: Duplicate label 'label' found at line -- '4'
+ ERROR: Invalid label name '0def' at line -- 10
+ ERROR: Error: Undefined label 'nonesuch' at line -- '4'
+ ERROR: Invalid number '08ge' at line 5.
+ ERROR: Missing operand for 'ldc'
+ ERROR: Unexpected operand for 'add'
+ ERROR: Invalid number '5,' at line 8.
+ ERROR: Unknown instruction 'fibble' at line 10.
+ ERROR: Unknown instruction '0def' at line 11.
+ WARNING: Unused label found: label at line 12
+ WARNING: Unused label found: 0def at line 12
+ WARNING: Halt not found
+ ERROR: Error: Undefined label 'nonesuch' at line -- '4'
+ INFORMATION: MACHINE CODE NOT GENERATED
+ INFORMATION: LISTING FILE NOT GENERATED
